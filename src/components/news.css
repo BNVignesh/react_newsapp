@@ -1,0 +1,10 @@
+h2{
+    text-align: center;
+}
+.css{
+    display: flex;
+    gap: 2px;
+}
+.card{
+    margin:auto;
+}
